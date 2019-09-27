@@ -1,2 +1,0 @@
-# SpaceShooterJS
-Created with CodeSandbox
